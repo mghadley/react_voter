@@ -1,0 +1,2 @@
+module Api::VotingHelper
+end
